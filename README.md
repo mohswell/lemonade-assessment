@@ -29,6 +29,7 @@ To test the Flask API:
 python -m unittest test_login
 ```
 
+![Python Test Results](https://github.com/user-attachments/assets/ded8ebd7-39bd-4b02-b7f3-337251d69c47)
 ---
 
 ### 3. Running the React Application
@@ -49,6 +50,7 @@ To test the React application:
 npm test
 ```
 
+![React App Test Results](https://github.com/user-attachments/assets/366a3482-1f38-4fd7-97b2-564e5f26b223)
 ---
 
 ## Project Structure
